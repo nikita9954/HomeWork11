@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class Bucket extends Fruits {
+public class Bucket  {
     LinkedList<Fruits> collectionOfFruits = new LinkedList<>();
 
     public void putFruit(Fruits fruits) {
@@ -26,4 +26,3 @@ public class Bucket extends Fruits {
 }
 
 
-  
